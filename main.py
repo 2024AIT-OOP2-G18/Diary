@@ -1,5 +1,6 @@
 from diaries.DiarySample import DiarySample
 from diaries.OkuDiary import OkuDiary
+from diaries.k23144 import k23144
 
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
