@@ -9,3 +9,4 @@ for d in diaries:
     print(d.get_summary())
     print(d.get_author())
     print()
+# コミットのための追加
