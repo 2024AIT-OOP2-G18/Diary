@@ -5,7 +5,9 @@ from diaries.OkuDiary import OkuDiary
 diaries = [
     DiarySample(),
     OkuDiary(),
-    ] 
+    k23144(),
+] 
+
 
 for d in diaries:
     print("---------------------------------")
@@ -13,3 +15,4 @@ for d in diaries:
     print(d.get_summary())
     print(d.get_author())
     print()
+# コミットのための追加
